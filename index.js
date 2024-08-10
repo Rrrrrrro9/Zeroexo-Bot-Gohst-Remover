@@ -36,7 +36,7 @@ app.listen(port, () => {
 
 
 
-const statusMessages = ["Made by: @Zeroxeo", "Tool made by @Zeroxeo"]; /** do what you want here*/
+const statusMessages = ["Test","Test2"]; /** do what you want here*/
 
 
 let currentIndex = 0;
