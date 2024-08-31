@@ -36,7 +36,7 @@ app.listen(port, () => {
 
 
 
-const statusMessages = ["Features coming soon!","Giveaway Role remover"]; /** do what you want here*/
+const statusMessages = ["Remove the Giveaway role after Giveaway","Giveaway Role remover"]; /** do what you want here*/
 
 
 let currentIndex = 0;
